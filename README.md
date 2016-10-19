@@ -4,7 +4,7 @@ A simple C tictactoe bot using a minimax strategy.
 
 ## Motivation
 
-I wanted a to implement an undefeatable minimax box, and learn the C programming language.
+I wanted to implement an undefeatable minimax box, and learn the C programming language.
 
 ## Installation
 
