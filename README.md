@@ -1,10 +1,35 @@
-Copyright Jarrod Dunne 2015  
-http://jddunne.com  
-jarrodddunne@gmail.com  
-https://github.com/jarroddunne/  
-https://www.linkedin.com/pub/jarrod-dunne/90/b14/8a8  
+## Synopsis
 
-minimax_tictactoe_c  
-A perfect Tic Tac Toe Player in C using the Minimax Algorithm
+A simple C tictactoe bot using a minimax strategy.
 
-To run, just compile and run main.c file using standard C compiler
+## Motivation
+
+I wanted a to implement an undefeatable minimax box, and learn the C programming language.
+
+## Installation
+
+Run and compile main.c, or run the tictactoe.exe on a windows machine.
+
+## License
+
+MIT License
+
+Copyright (c) 2016 Jarrod D. Dunne
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
